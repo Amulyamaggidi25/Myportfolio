@@ -1,0 +1,27 @@
+[
+  {
+    "name": "AMAZON",
+    "desc": "AMAZON CLONE built using Html and CSS",
+    "links": {
+      "view":"https://github.com/Amulyamaggidi25/Amazonnclone",
+      "code": " https://amulyamaggidi25.github.io/Amazonnclone/"
+    }
+  },
+  {
+    "name": "Report on database of a delivery app",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    
+    "links": {
+      
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
